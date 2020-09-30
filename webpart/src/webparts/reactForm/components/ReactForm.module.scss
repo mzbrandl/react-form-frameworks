@@ -1,0 +1,16 @@
+.reactForm {
+  display: grid;
+  grid-template-columns: auto 1fr;
+
+  .dashboard {
+    display: flex;
+    flex-direction: column;
+    background-color: #bee1ff30;
+    padding: 1em;
+    margin: 1em;
+  }
+
+  .form {
+    display: flex;
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "entries": [
+    {
+      "entry": "./lib/webparts/reactForm/ReactFormWebPart.js",
+      "manifest": "./src/webparts/reactForm/ReactFormWebPart.manifest.json",
+      "outputPath": "./dist/react-form-web-part.js"
+    }
+  ],
+  "externals": {},
+  "localizedResources": {
+    "ReactFormWebPartStrings": "webparts/reactForm/loc/{locale}.js"
+  }
+}
